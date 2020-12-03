@@ -5,7 +5,7 @@ title: Data Science + Policy + Ethics
 author: Emily Hadley
 description: > 
   I'm a data scientist who cares deeply about data, policy, and ethics. I also love hiking, rock climbing, and increasing access to outdoor spaces.
-baseurl: "emilyhadley.com"
+baseurl: emilyhadley.com
 
 plugins:
   - jekyll-feed
