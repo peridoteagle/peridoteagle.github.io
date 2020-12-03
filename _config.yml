@@ -1,11 +1,11 @@
 # _config.yml
 
 # required, replace with your own information -----
-title: Hello for Github Pages
-author: Sara Gong
+title: Data Science + Policy + Ethics
+author: Emily Hadley
 description: > 
-  A minimalist template for designing a personal GitHub Pages website - without typing a single line of code.
-baseurl: ""
+  I'm a data scientist who cares deeply about data, policy, and ethics. I also love hiking, rock climbing, and increasing access to outdoor spaces.
+baseurl: "emilyhadley.com"
 
 plugins:
   - jekyll-feed
