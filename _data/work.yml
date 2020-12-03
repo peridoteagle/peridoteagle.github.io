@@ -16,7 +16,7 @@ work:
         image: /images/graduate.jpg
   - category: Outdoors
     items:
-      - item: example.html
+      - item: outdoor.html
         image: /images/outdoors.jpg
-      - item: example.html
+      - item: climbing.html
         image: /images/rock_climbing.jpg
