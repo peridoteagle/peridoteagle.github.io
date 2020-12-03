@@ -2,23 +2,21 @@
 # in the root directory
 
 work:
-  - category: New York City
+  - category: Data Science
     items:
+      - item: 5_steps_antiracist.html
+        image: /images/5_steps_antiracist.jpg 
+      - item: hospital.html
+        image: /images/hospital.jpg
+  - category: 
+    items: Policy
+      - item: cac.html
+        image: /images/cac.jpg
+      - item: education.html
+        image: /images/graduate.jpg
+  - category: 
+    items: Outdoors
       - item: example.html
-        image: /images/NYC1.jpg # optionally, include the file path for an image for each item
+        image: /images/outdoors.jpg
       - item: example.html
-        image: /images/NYC2.jpg
-      - item: example2.html
-        image: /images/NYC3.jpg
-      - item: example3.html
-        image: /images/NYC4.jpg
-  - category: Los Angeles
-    items:
-      - item: example.html
-        image: /images/LA1.jpg
-      - item: example.html
-        image: /images/LA2.jpg
-      - item: example2.html
-        image: /images/LA3.jpg
-      - item: example3.html
-        image: /images/LA4.jpg
+        image: /images/rock_climbing.jpg
