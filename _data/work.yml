@@ -8,15 +8,3 @@ work:
         image: /images/5_steps_antiracist.jpg 
       - item: hospital.html
         image: /images/hospital.jpg
-  - category: Policy
-    items:
-      - item: cac.html
-        image: /images/cac.jpg
-      - item: education.html
-        image: /images/graduate.jpg
-  - category: Outdoors
-    items:
-      - item: outdoor.html
-        image: /images/outdoors.jpg
-      - item: climbing.html
-        image: /images/rock_climbing.jpg
