@@ -1,20 +1,20 @@
-# this file organizes the items in your portfolio, which are placed in the _includes folder
-# in the root directory
 
 work:
-  - category: Data Science
+  - category: Data Science + Policy + Ethics
     items:
       - item: 5_steps_antiracist.html
-        image: /images/5_steps_antiracist.jpg 
+        image: /images/5_steps_antiracist.jpg
       - item: hospital.html
         image: /images/hospital.jpg
-  - category: Policy
-    items:
+      - item: icd10_ml.html
+        image: /images/icd10_ml.jpg
+      - item: gates.html
+        image: /images/gates.jpg
       - item: cac.html
         image: /images/cac.jpg
       - item: education.html
         image: /images/graduate.jpg
-  - category: Outdoors
+  - category: Bonus! Outdoors
     items:
       - item: outdoor.html
         image: /images/outdoors.jpg

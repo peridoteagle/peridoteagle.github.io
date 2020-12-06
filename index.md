@@ -5,7 +5,7 @@ layout: hello-default
 
 # these variables are required -------------------------------
 banner_title: Emily Hadley
-banner_subtitle: Data Science + Policy + Outdoors
+banner_subtitle: Data Science + Policy + Ethics
 background_image: /images/background.jpeg
 
 # all of the following variables are optional -----------------
@@ -25,31 +25,31 @@ linkedin: emilyhadley4
 
 # optional portfolio section ------------------------------------------
 
-# By declaring these variables, you can include a portfolio showcasing your work and organize your portfolio's items into a custom layout, all without adding any CSS. In addition, you must 1) create an HTML file in the_includes folder for each project with the text you'd like to display, and 2) create a YAML file in the _data folder describing the order in which each project should be shown and categorized. See `/includes/example.html` and `/_data/work.yml` for examples.
-
-portfolio: work # the heading for your portfolio and title of your YAML file
-portfolio_description: test work description
+portfolio: work
+portfolio_description: the work is hard, but the impact is real
 
 # optional CTA section --------------------------------------------------
 
 # By declaring these variables, you can include a CTA section.
 cta: connect # the heading for your CTA section
-cta_description: questions, comments, or concerns? please don't hesitate to reach out. # a description to be desplayed below the heading and above the content
+cta_description: questions, comments, or concerns? feel free to reach out. # a description to be desplayed below the heading and above the content
 cta_button: mailto:ehadley@rti.org # a link to an external website or to media
 cta_button_label: contact # the label on the button
 
 ---			
-[//]: # (write a bit about yourself here)
-### TESTING
+[//]:
 
-### **hello** has a simple goal: to make GitHub Pages accessible to everyone.  
+We live in a world where policies are made by people, and people are persuaded
+by evidence. When this evidence is grounded in data, one graph, one statistic,
+or one value shared by a data scientist can fundamentally sway a policy decision.
 
-**hello** is a minimalist template that lets you design a beautiful website or portfolio on GitHub Pages - without installing a Ruby
-development environment, learning to use Jekyll, **or even typing a single line of code**. It's ideal for GitHubbers
-who want to start building their personal website on [GitHub Pages](https://pages.github.com/), but maybe aren't so familiar with web development.
+### Our work as data scientists can substantially impact the lives of people whose data we use but who we will never meet.
 
+My passion is for work at the intersection of data and policy. I recognize
+that this is a privileged and powerful space and comes with a responsibility
+to 1) ensure quality research that actively engages stakeholders, including
+impacted communities 2) improving tech culture and supporting increased diverse
+representation of tech contributors and 3) advocating for accountability among
+entities that are increasingly embracing data science and AI technologies.
 
-The default layout of **hello** is a streamlined single page with three major customizable sections: a required "about" section, an optional portfolio, and an optional CTA. Using [Liquid](https://shopify.github.io/liquid/) variables declared by in the config and index files, **hello** offers an easy-to-use design where all customizations necessary for a basic personal website can be written in [Markdown](https://www.markdownguide.org/basic-syntax/).  
-
-
-**hello** is adapted from [Twenty](https://html5up.net/twenty), a responsive, mobile-friendly theme by HTML5 Up.
+I look forward to continuing this work.
