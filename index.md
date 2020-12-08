@@ -26,7 +26,7 @@ linkedin: emilyhadley4
 # optional portfolio section ------------------------------------------
 
 portfolio: work
-portfolio_description: the work is hard, but the impact is real
+portfolio_description:
 
 # optional CTA section --------------------------------------------------
 
@@ -37,7 +37,6 @@ cta_button: mailto:ehadley@rti.org # a link to an external website or to media
 cta_button_label: contact # the label on the button
 
 ---			
-[//]:
 
 We live in a world where policies are made by people, and people are persuaded
 by evidence. When this evidence is grounded in data, one graph, one statistic,

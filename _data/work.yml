@@ -10,10 +10,10 @@ work:
         image: /images/icd10_ml.jpg
       - item: gates.html
         image: /images/gates.jpg
-      - item: cac.html
-        image: /images/cac.jpg
       - item: education.html
         image: /images/graduate.jpg
+      - item: cac.html
+        image: /images/cac.jpg
   - category: Bonus! Outdoors
     items:
       - item: outdoor.html
