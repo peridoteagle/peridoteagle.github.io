@@ -1,6 +1,6 @@
 
 work:
-  - category: Data Science + Policy + Ethics
+  - category: Current Role (RTI International)
     items:
       - item: 5_steps_antiracist.html
         image: /images/5_steps_antiracist.jpg
@@ -10,6 +10,8 @@ work:
         image: /images/icd10_ml.jpg
       - item: gates.html
         image: /images/gates.jpg
+  - category: Previous Work
+    items:
       - item: education.html
         image: /images/graduate.jpg
       - item: cac.html

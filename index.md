@@ -26,7 +26,7 @@ linkedin: emilyhadley4
 # optional portfolio section ------------------------------------------
 
 portfolio: work
-portfolio_description:
+portfolio_description: Data Science + Policy + Ethics
 
 # optional CTA section --------------------------------------------------
 
