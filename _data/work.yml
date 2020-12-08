@@ -2,13 +2,13 @@
 work:
   - category: Current Role (RTI International)
     items:
-      - item: 5_steps_antiracist.html
+      - item: hospital.html
         image: /images/5_steps_antiracist.jpg
-      - item: gates.html
+      - item: hospital.html
         image: /images/gates.jpg
       - item: hospital.html
         image: /images/hospital.jpg
-      - item: icd10_ml.html
+      - item: hospital.html
         image: /images/icd10_ml.jpg
   - category: Previous Work
     items:
