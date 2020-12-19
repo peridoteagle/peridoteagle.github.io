@@ -1,17 +1,15 @@
 
 work:
-  - category: Current Role (RTI International)
+  - category: Data Science + Policy + Ethics
     items:
-      - item: hospital.html
+      - item: 5_steps_antiracist.html
         image: /images/5_steps_antiracist.jpg
-      - item: hospital.html
+      - item: gates.html
         image: /images/gates.jpg
       - item: hospital.html
         image: /images/hospital.jpg
-      - item: hospital.html
+      - item: icd10_ml.html
         image: /images/icd10_ml.jpg
-  - category: Previous Work
-    items:
       - item: education.html
         image: /images/graduate.jpg
       - item: cac.html
