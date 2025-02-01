@@ -45,7 +45,7 @@ interests:
 education:
   - area: MSc Analytics
     institution: North Carolina State University
-  - area: BS Statistical Sciences, BA Public Policy
+  - area: BS Statistics, BA Public Policy
     institution: Duke University
 
 work:
