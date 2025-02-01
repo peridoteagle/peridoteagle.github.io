@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Emily Hadley
+title: Emily Hadle
 
 # Name pronunciation (optional)
 name_pronunciation: ''
