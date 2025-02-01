@@ -45,21 +45,21 @@ interests:
 education:
   - area: MSc Analytics
     institution: North Carolina State University
-  - area: BS Statistics, BA Public Policy
+  - area: BS Statistical Sciences, BA Public Policy
     institution: Duke University
 
-# work:
-#   - position: Senior Research Data Scientist
-#     company_name: RTI International
-#     company_url: ''
-#     company_logo: ''
-#     date_start: 2021-01-01
-#     date_end: ''
-#     summary: |2-
-#       Responsibilities include:
-#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
+work:
+  - position: Senior Research Data Scientist
+    company_name: RTI International
+    company_url: ''
+    company_logo: ''
+    date_start: 2021-01-01
+    date_end: ''
+    summary: |2-
+      Responsibilities include:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -136,4 +136,5 @@ education:
 ---
 
 ## About Me
-I'm a Senior Research Data Scientist at RTI International with over six years of experience 
+
+Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
