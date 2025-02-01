@@ -136,5 +136,4 @@ skills:
 ---
 
 ## About Me
-
-I'm a Senior Research Data Scientist at RTI International with over six years of experience leading and contributing to technical projects in AI, natural language processing, predictive analytics, agent-based modeling, Bayesian analysis, and data visualization. My work has helped drive real-world impact for several U.S. government agencies. Currently, I focus on the responsible and safe use of AI, with a particular interest in internal governance strategies and AI red-teaming.
+I'm a Senior Research Data Scientist at RTI International with over six years of experience 
