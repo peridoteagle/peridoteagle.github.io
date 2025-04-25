@@ -137,4 +137,4 @@ work:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Emily Hadley is a senior research data scientist with nearly 7 years of experience. Her work spans several practice areas including health, education, social policy, and criminal justice. She has experience with generative AI, machine learning, natural language processing, and predictive analytics, and is actively involved in AI governance research. 
