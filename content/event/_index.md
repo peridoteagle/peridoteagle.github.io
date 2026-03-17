@@ -1,5 +1,5 @@
 ---
-title: Recent & Upcoming Talks
+title: Talks
 cms_exclude: true
 #url: talk
 
@@ -12,6 +12,6 @@ image:
   filename: ''
 ---
 
-**2026 Talks Pending**
+Talks are to be determined for 2026.
 
-See [Teaching](/teaching/) for university talk information.
+University information is available on the [Teaching](/teaching/) page.
