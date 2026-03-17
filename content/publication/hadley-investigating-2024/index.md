@@ -25,6 +25,9 @@ abstract: Organizations are increasingly developing and utilizing artificial int
   between profit and the cost of RAI were a major concern for many participants. Future
   work should explore measurements of success for ARBs and expand analysis of ARBs
   to other industries leading in AI implementation.
+
+summary: Investigation of algorithm review boards as a governance mechanism for organizational AI risk management.
+
 tags:
 - Algorithm
 - Artificial intelligence

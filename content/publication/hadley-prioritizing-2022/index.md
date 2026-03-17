@@ -29,6 +29,9 @@ abstract: Several policy options exist, or have been proposed, to further respon
   and databases of AI technologies or incidents. We recognize that no one policy will
   lead to responsible AI and instead advocate for strategic policy implementation
   across institutions.
+
+summary: Framework for prioritizing responsible AI policies across different U.S. institutions.
+
 tags:
 - artificial intelligence
 - Big Data
