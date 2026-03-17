@@ -35,9 +35,9 @@ profiles:
     url: https://orcid.org/0000-0003-0074-4344
 
 interests:
-  - Artificial Intelligence
-  - Safe and Responsible AI
-  - Natural Language Processing
+  - Weird AI Failures
+  - (Dis)Trust in AI
+  - AI Actually Doing Good
 
 education:
   - area: MSc Analytics
@@ -106,15 +106,6 @@ work:
     date_start: 2018-06-01
     date_end: 2020-12-31
     summary: |2-
-      As a member of the Center for Data Science and AI, I collaborated with technical colleagues and subject matter experts on a variety of projects in social science, data science, and responsible AI.
-      
-      My contributions included:
-      - Participation on more than 40 data science and AI projects for federal government clients (CDC, NIH, Dept of Education, Dept of Justice) and foundations (Gates Foundation, Arnold Ventures, Robert Wood Johnson Foundation)
-      - Authorship on 16 peer-reviewed papers
-      - Presentations at 36 conferences, including several as an invited speaker
-      - Leadership in drafting RTI generative AI use policies and development of responsible AI protocols including impact assessment and red-teaming
-      - Representing RTI on the NIST US AI Safety Institute Consortium
-      - Quoted in major publications including New York Times, Scientific American, Washington Post, and TIME for research on COVID reinfections and Long COVID
   - position: College Advising Corps Adviser
     company_name: AmeriCorps
     company_url: 'https://americorps.gov/'
