@@ -11,3 +11,7 @@ image:
   caption: ''
   filename: ''
 ---
+
+**2026 Talks Pending**
+
+See [Teaching](/teaching/) for university talk information.
