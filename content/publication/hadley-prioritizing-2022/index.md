@@ -40,6 +40,7 @@ tags:
 - policy
 - Professional societies
 - responsible AI
+featured: true
 links:
 - name: URL
   url: https://ieeexplore.ieee.org/abstract/document/10020551

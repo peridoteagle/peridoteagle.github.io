@@ -185,4 +185,4 @@ work:
 
 ## About Me
 
-Emily Hadley is a Quantitative Threat Forecasting Analyst at OpenAI with nearly 8 years of experience spanning data science, AI security, and responsible AI governance. She recently served as a Security Researcher on Microsoft's AI Red Team, where she contributed to adversarial testing, threat assessment, and the development of the PyRIT library. Her work encompasses health, education, social policy, and criminal justice domains, with deep expertise in generative AI, machine learning, natural language processing, threat detection, and AI governance. She is also a part-time Lecturer at North Carolina State University, teaching in the Data Science Academy. 
+Emily Hadley is a Quantitative Threat Forecasting Analyst at OpenAI with nearly 8 years of experience spanning data science, AI safety, and responsible AI governance.

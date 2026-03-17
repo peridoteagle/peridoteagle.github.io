@@ -31,6 +31,7 @@ tags:
 - Artificial Intelligence
 - Data science
 - Governance
+featured: true
 links:
 - name: URL
   url: https://doi.org/10.1007/s43681-024-00574-8
