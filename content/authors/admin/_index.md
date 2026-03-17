@@ -2,9 +2,6 @@
 # Display name
 title: Emily Hadley
 
-# Name pronunciation (optional)
-name_pronunciation: ''
-
 # Full name (for SEO)
 first_name: Emily
 last_name: Hadley
@@ -20,12 +17,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Senior Research Data Scientist
+role: Quantitative Threat Forecasting Analyst
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: RTI International
-    url: https://www.rti.org/
+  - name: OpenAI
+    url: https://openai.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -49,17 +46,68 @@ education:
     institution: Duke University
 
 work:
-  - position: Senior Research Data Scientist
-    company_name: RTI International
-    company_url: ''
+  - position: Quantitative Threat Forecasting Analyst
+    company_name: OpenAI
+    company_url: 'https://openai.com'
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2025-11-01
     date_end: ''
     summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Current role in Intelligence & Investigations.
+  - position: Security Researcher
+    company_name: Microsoft
+    company_url: 'https://microsoft.com'
+    company_logo: ''
+    date_start: 2025-05-01
+    date_end: 2025-10-31
+    summary: |2-
+      As a member of the AI Red Team, I assisted in investigations and adversarial testing of several AI systems.
+      
+      My contributions included:
+      - Assessment of a variety of attack surfaces including violence, fairness, and leakage
+      - Preparation of a playbook for investigating leakage harms including intellectual property, protected data, and geolocation data
+      - Developing an experimentation workflow that was generalized into a cookbook in the open-source PyRIT library
+      - Participation in work cited in the GPT-5 System Card
+  - position: Lecturer
+    company_name: North Carolina State University
+    company_url: 'https://ncsu.edu'
+    company_logo: ''
+    date_start: 2022-08-01
+    date_end: ''
+    summary: |2-
+      Part-time lecturer teaching weekly 1-credit class titled "Data Science for Social Good" with the NC State Data Science Academy.
+  - position: Senior Research Data Scientist
+    company_name: RTI International
+    company_url: 'https://www.rti.org/'
+    company_logo: ''
+    date_start: 2024-12-01
+    date_end: 2025-05-31
+    summary: |2-
+      Senior role at RTI International's Center for Data Science and AI.
+  - position: Research Data Scientist
+    company_name: RTI International
+    company_url: 'https://www.rti.org/'
+    company_logo: ''
+    date_start: 2020-12-01
+    date_end: 2024-12-31
+    summary: |2-
+      As a member of the Center for Data Science and AI, I collaborated with technical colleagues and subject matter experts on a variety of projects in social science, data science, and responsible AI.
+      
+      My contributions included:
+      - Participation on more than 40 data science and AI projects for federal government clients (CDC, NIH, Dept of Education, Dept of Justice) and foundations (Gates Foundation, Arnold Ventures, Robert Wood Johnson Foundation)
+      - Authorship on 16 peer-reviewed papers
+      - Presentations at 36 conferences, including several as an invited speaker
+      - Leadership in drafting RTI generative AI use policies and development of responsible AI protocols including impact assessment and red-teaming
+      - Representing RTI on the NIST US AI Safety Institute Consortium
+      - Quoted in major publications including New York Times, Scientific American, Washington Post, and TIME for research on COVID reinfections and Long COVID
+  - position: Data Scientist
+    company_name: RTI International
+    company_url: 'https://www.rti.org/'
+    company_logo: ''
+    date_start: 2018-06-01
+    date_end: 2020-12-31
+    summary: |2-
+      Data Scientist role at RTI International's Center for Data Science and AI.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -137,4 +185,4 @@ work:
 
 ## About Me
 
-Emily Hadley is a senior research data scientist with nearly 7 years of experience. Her work spans several practice areas including health, education, social policy, and criminal justice. She has experience with generative AI, machine learning, natural language processing, and predictive analytics, and is actively involved in AI governance research. 
+Emily Hadley is a Quantitative Threat Forecasting Analyst at OpenAI with nearly 8 years of experience spanning data science, AI security, and responsible AI governance. She recently served as a Security Researcher on Microsoft's AI Red Team, where she contributed to adversarial testing, threat assessment, and the development of the PyRIT library. Her work encompasses health, education, social policy, and criminal justice domains, with deep expertise in generative AI, machine learning, natural language processing, threat detection, and AI governance. She is also a part-time Lecturer at North Carolina State University, teaching in the Data Science Academy. 
