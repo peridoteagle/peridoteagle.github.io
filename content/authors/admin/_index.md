@@ -54,6 +54,14 @@ work:
     date_end: ''
     summary: |2-
       Current role in Intelligence & Investigations.
+  - position: Lecturer
+    company_name: North Carolina State University
+    company_url: 'https://ncsu.edu'
+    company_logo: ''
+    date_start: 2022-08-01
+    date_end: ''
+    summary: |2-
+      Part-time lecturer teaching weekly 1-credit class titled "Data Science for Social Good" with the NC State Data Science Academy.
   - position: Security Researcher
     company_name: Microsoft
     company_url: 'https://microsoft.com'
@@ -68,14 +76,6 @@ work:
       - Preparation of a playbook for investigating leakage harms including intellectual property, protected data, and geolocation data
       - Developing an experimentation workflow that was generalized into a cookbook in the open-source PyRIT library
       - Participation in work cited in the GPT-5 System Card
-  - position: Lecturer
-    company_name: North Carolina State University
-    company_url: 'https://ncsu.edu'
-    company_logo: ''
-    date_start: 2022-08-01
-    date_end: ''
-    summary: |2-
-      Part-time lecturer teaching weekly 1-credit class titled "Data Science for Social Good" with the NC State Data Science Academy.
   - position: Senior Research Data Scientist
     company_name: RTI International
     company_url: 'https://www.rti.org/'
@@ -83,7 +83,6 @@ work:
     date_start: 2024-12-01
     date_end: 2025-05-31
     summary: |2-
-      Senior role at RTI International's Center for Data Science and AI.
   - position: Research Data Scientist
     company_name: RTI International
     company_url: 'https://www.rti.org/'
@@ -107,7 +106,29 @@ work:
     date_start: 2018-06-01
     date_end: 2020-12-31
     summary: |2-
-      Data Scientist role at RTI International's Center for Data Science and AI.
+      As a member of the Center for Data Science and AI, I collaborated with technical colleagues and subject matter experts on a variety of projects in social science, data science, and responsible AI.
+      
+      My contributions included:
+      - Participation on more than 40 data science and AI projects for federal government clients (CDC, NIH, Dept of Education, Dept of Justice) and foundations (Gates Foundation, Arnold Ventures, Robert Wood Johnson Foundation)
+      - Authorship on 16 peer-reviewed papers
+      - Presentations at 36 conferences, including several as an invited speaker
+      - Leadership in drafting RTI generative AI use policies and development of responsible AI protocols including impact assessment and red-teaming
+      - Representing RTI on the NIST US AI Safety Institute Consortium
+      - Quoted in major publications including New York Times, Scientific American, Washington Post, and TIME for research on COVID reinfections and Long COVID
+  - position: College Advising Corps Adviser
+    company_name: AmeriCorps
+    company_url: 'https://americorps.gov/'
+    company_logo: ''
+    date_start: 2015-07-01
+    date_end: 2017-06-30
+    summary: |2-
+      I served as an AmeriCorps college adviser with the Duke College Advising Corps at a rural North Carolina high school. Some of my contributions included:
+      
+      * Increasing the college going rate by 25%
+      * Nearly doubling the number of students taking the SAT
+      * Increasing the total scholarships awarded from $2.7 million to $7.6 million
+      
+      My work was featured in a May 2017 New York Times article.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
