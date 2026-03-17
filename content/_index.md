@@ -31,9 +31,9 @@ sections:
       title: 'My Areas of Expertise'
       subtitle: ''
       text: |-
-        I work on identifying and forecasting risks in AI systems 🔍.
+        I work on identifying and forecasting risks related to AI 🔍
         
-        I’ve previously worked as an AI red teamer and government contractor, and my data science toolkit includes forecasting, Bayesian modeling, NLP, agent-based modeling, and data visualization 📊 across domains like health, criminal justice, and education.
+        I’ve previously worked as an AI red teamer and federal government contractor, and my data science toolkit includes big data analysis, Bayesian modeling, NLP, agent-based modeling, and data visualization 📊 across domains like health, criminal justice, and education.
         
         At the end of the day, I’m focused on helping build AI that’s not just powerful, but safe and trustworthy 🤖✨
     design:

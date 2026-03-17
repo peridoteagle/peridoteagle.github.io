@@ -206,4 +206,4 @@ work:
 
 ## About Me
 
-Building secure, trustworthy AI systems through research, governance, and threat detection.
+The world is complicated. I use data to make AI safer 🤖
