@@ -9,4 +9,4 @@ tags:
   - Healthcare
 ---
 
-Featured in the Washington Post providing quote and expertise regarding published research on COVID-19 reinfections and Long COVID.
+Featured in the [Washington Post](https://www.washingtonpost.com/politics/2024/07/11/relieving-growing-burden-medical-debt/) providing quote and expertise regarding published research on COVID-19 reinfections and Long COVID.

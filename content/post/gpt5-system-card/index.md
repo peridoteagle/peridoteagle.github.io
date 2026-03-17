@@ -9,4 +9,4 @@ tags:
   - GPT-5
 ---
 
-Contributed to work by the Microsoft AI Red Team that was cited as important to the GPT-5 System Card release by OpenAI.
+Contributed to work by the Microsoft AI Red Team that was cited as important to the [GPT-5 System Card](https://openai.com/index/gpt-5-system-card/) release by OpenAI.

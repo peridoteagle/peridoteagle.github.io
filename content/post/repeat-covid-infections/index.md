@@ -8,4 +8,4 @@ tags:
   - Research
 ---
 
-Featured in Scientific American providing quote and expertise regarding published research on COVID-19 reinfections and Long COVID.
+Featured in [Scientific American](https://www.scientificamerican.com/article/do-repeat-covid-infections-increase-the-risk-of-severe-disease-or-long-covid/) providing quote and expertise regarding published research on COVID-19 reinfections and Long COVID.
