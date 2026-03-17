@@ -28,14 +28,14 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: 'My Areas of Expertise'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        My current work focuses on identifying and forecasting risks centered on AI systems. I'm particularly interested in conversations at the intersection of AI ethics, policy, and safety with a focus on harm pathways that are challenging to measure or anticipate.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+        I have previously experience as an AI red teamer and a government contractor. My data science skills include forecasting, Bayesian modeling, natural language processing, agent-based modeling, and data visualization. I have analytical experience in a wide variety of subject areas from criminal justice to health to policy to education.
+
+        Ultimately, my goal is to help ensure AI systems are not only powerful, but safe, trustworthy, and aligned with real-world needs. The best way to contact me is on LinkedIn.
     design:
       columns: '1'
   - block: collection
