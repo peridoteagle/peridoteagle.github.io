@@ -1,52 +1,27 @@
 ---
-title: Learn JavaScript
-summary: Easily learn JavaScript in 10 minutes!
+title: Data Science for Social Good
+summary: Investigate the growing use of data science to address societal challenges aligned with the UN's Sustainable Development Goals.
 date: 2023-10-24
 type: docs
 math: false
-tags:
-  - JavaScript
+tags: []
 image:
-  caption: 'Embed rich media such as videos and LaTeX math'
+  filename: social-good.png
 ---
 
-[Hugo Blox Builder](https://hugoblox.com) is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.
+## Course Overview
 
-**Embed videos, podcasts, code, LaTeX math, and even test students!**
+Data science offers powerful tools for addressing a multitude of societal challenges, yet it is no panacea and will require collaboration and commitment from across society to fulfill its promise. 
 
-On this page, you'll find some examples of the types of technical content that can be rendered with Hugo Blox.
+## Course Content
 
-## Video
+Students will investigate the growing use of data science in the social impact space, drawing from real-world examples aligned with the United Nations' Sustainable Development Goals. These examples will span practice areas and approaches, including machine learning, natural language processing, and image recognition. 
 
-Teach your course by sharing videos with your students. Choose from one of the following approaches:
+Students will discuss the challenges of implementing data science for social good solutions, including considerations of community involvement, bias, & equity and identify best practices.
 
-{{< youtube D2vj0WcvH5c >}}
+## Institution
 
-**Youtube**:
-
-    {{</* youtube w7Ft2ymGmfc */>}}
-
-**Bilibili**:
-
-    {{</* bilibili id="BV1WV4y1r7DF" */>}}
-
-**Video file**
-
-Videos may be added to a page by either placing them in your `assets/media/` media library or in your [page's folder](https://gohugo.io/content-management/page-bundles/), and then embedding them with the _video_ shortcode:
-
-    {{</* video src="my_video.mp4" controls="yes" */>}}
-
-## Podcast
-
-You can add a podcast or music to a page by placing the MP3 file in the page's folder or the media library folder and then embedding the audio on your page with the _audio_ shortcode:
-
-    {{</* audio src="ambient-piano.mp3" */>}}
-
-Try it out:
-
-{{< audio src="ambient-piano.mp3" >}}
-
-## Test students
+North Carolina State University (Taught for 6 semesters as part-time lecturer with the NC State Data Science Academy)
 
 Provide a simple yet fun self-assessment by revealing the solutions to challenges with the `spoiler` shortcode:
 

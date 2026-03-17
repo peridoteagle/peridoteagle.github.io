@@ -37,7 +37,7 @@ profiles:
 interests:
   - Weird AI Failures
   - (Dis)Trust in AI
-  - AI Actually Doing Good
+  - AI Used for Social Good
 
 education:
   - area: MSc Analytics
