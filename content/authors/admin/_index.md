@@ -185,4 +185,4 @@ work:
 
 ## About Me
 
-Emily Hadley is a Quantitative Threat Forecasting Analyst at OpenAI with nearly 8 years of experience spanning data science, AI safety, and responsible AI governance.
+Building secure, trustworthy AI systems through research, governance, and threat detection.

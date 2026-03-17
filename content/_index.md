@@ -31,11 +31,11 @@ sections:
       title: 'My Areas of Expertise'
       subtitle: ''
       text: |-
-        My current work focuses on identifying and forecasting risks centered on AI systems. I'm particularly interested in conversations at the intersection of AI ethics, policy, and safety with a focus on harm pathways that are challenging to measure or anticipate.
-
-        I have previously experience as an AI red teamer and a government contractor. My data science skills include forecasting, Bayesian modeling, natural language processing, agent-based modeling, and data visualization. I have analytical experience in a wide variety of subject areas from criminal justice to health to policy to education.
-
-        Ultimately, my goal is to help ensure AI systems are not only powerful, but safe, trustworthy, and aligned with real-world needs. The best way to contact me is on LinkedIn.
+        I work on identifying and forecasting risks in AI systems 🔍.
+        
+        I’ve previously worked as an AI red teamer and government contractor, and my data science toolkit includes forecasting, Bayesian modeling, NLP, agent-based modeling, and data visualization 📊 across domains like health, criminal justice, and education.
+        
+        At the end of the day, I’m focused on helping build AI that’s not just powerful, but safe and trustworthy 🤖✨
     design:
       columns: '1'
   - block: collection
