@@ -44,6 +44,13 @@ tags:
 - Professional societies
 - responsible AI
 featured: true
+
+# Featured image
+image:
+  caption: ''
+  focal_point: 'Center'
+  preview_only: false
+
 links:
 - name: URL
   url: https://ieeexplore.ieee.org/abstract/document/10020551
