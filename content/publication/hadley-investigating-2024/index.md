@@ -35,6 +35,13 @@ tags:
 - Data science
 - Governance
 featured: true
+
+# Featured image
+image:
+  caption: ''
+  focal_point: 'Center'
+  preview_only: false
+
 links:
 - name: URL
   url: https://doi.org/10.1007/s43681-024-00574-8
