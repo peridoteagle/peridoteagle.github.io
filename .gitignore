@@ -1,0 +1,6 @@
+.hugo_build.lock
+hugo
+hugo.tar.gz
+hugo_stats.json
+public/
+resources/_gen/

@@ -6,7 +6,7 @@ type: docs
 math: false
 tags: []
 image:
-  filename: teaching.png
+  filename: teaching.jpg
 ---
 
 ## About
