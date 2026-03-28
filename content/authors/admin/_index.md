@@ -42,12 +42,8 @@ interests:
 education:
   - area: MSc Analytics
     institution: North Carolina State University
-    date_start: ""
-    date_end: ""
   - area: BS Statistics, BA Public Policy
     institution: Duke University
-    date_start: ""
-    date_end: ""
 
 work:
   - position: Quantitative Threat Forecasting Analyst
