@@ -1,8 +1,5 @@
-{{ $footer := site.Params.footer }}
-{{ $copyright := $footer.copyright }}
-
 <footer class="site-footer">
   <p>
-    {{ replace $copyright.notice "{year}" (string now.Year) | replace "{license}" "CC BY-NC-ND 4.0" }}
+    © {{ now.Year }} Emily Hadley. This work is licensed under CC BY-NC-ND 4.0
   </p>
 </footer>

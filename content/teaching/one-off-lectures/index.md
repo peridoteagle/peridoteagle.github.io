@@ -1,8 +1,9 @@
 ---
-title: One-Off School Lectures
-summary: As my free time permits, I speak virtually on AI and data science in classroom settings.
+title: Lectures and Panels
+summary: As my free time permits, I can speak on AI in lecture and panel settings.
 date: 2023-10-24
 type: page
+show_date: false
 math: false
 tags: []
 image:
