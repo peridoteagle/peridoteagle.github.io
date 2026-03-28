@@ -35,7 +35,6 @@ sections:
 
         My background spans AI red teaming, threat forecasting, and applied data science across domains including health, education, and criminal justice. I use methods such as large-scale data analysis, Bayesian modeling, natural language processing, agent-based modeling, and data visualization to study complex real-world problems.
 
-        Across research, policy, and practice, I’m most interested in helping build AI systems that are not just powerful, but safe, trustworthy, and useful.
     design:
       columns: '1'
   - block: collection
