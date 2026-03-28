@@ -1,7 +1,8 @@
 ---
 title: Data Science for Social Good
-summary: Investigate the growing use of data science to address societal challenges aligned with the UN's Sustainable Development Goals.
+summary: A 1-credit course on how data science can support social impact work, with attention to real-world tradeoffs, ethics, and implementation.
 date: 2023-10-24
+slug: data-science-for-social-good
 type: docs
 math: false
 tags: []
@@ -11,105 +12,35 @@ image:
 
 ## Course Overview
 
-Data science offers powerful tools for addressing a multitude of societal challenges, yet it is no panacea and will require collaboration and commitment from across society to fulfill its promise. 
+Data science offers powerful tools for addressing societal challenges, but it is not a magic solution. In this course, students examine where data science can genuinely help, where it can fall short, and what responsible practice looks like in real projects.
 
 ## Course Content
 
-Students will investigate the growing use of data science in the social impact space, drawing from real-world examples aligned with the United Nations' Sustainable Development Goals. These examples will span practice areas and approaches, including machine learning, natural language processing, and image recognition. 
+Students explore how data science is used in social impact settings, drawing from examples connected to public health, education, criminal justice, and community wellbeing. Case studies span methods such as machine learning, natural language processing, and data visualization.
 
-Students will discuss the challenges of implementing data science for social good solutions, including considerations of community involvement, bias, & equity and identify best practices.
+The course emphasizes implementation challenges as much as technical promise. Students discuss questions of bias, equity, accountability, stakeholder engagement, and how to evaluate whether a proposed solution is actually useful in practice.
 
 ## Institution
 
-North Carolina State University (Taught for 6 semesters as part-time lecturer with the NC State Data Science Academy)
+North Carolina State University
 
-Provide a simple yet fun self-assessment by revealing the solutions to challenges with the `spoiler` shortcode:
+I taught this course for six semesters as a part-time lecturer with the NC State Data Science Academy.
 
-```markdown
-{{</* spoiler text="👉 Click to view the solution" */>}}
-You found me!
-{{</* /spoiler */>}}
-```
+## Topics
 
-renders as
+Topics have included:
 
-{{< spoiler text="👉 Click to view the solution" >}} You found me 🎉 {{< /spoiler >}}
+- What "data science for social good" means in practice
+- Real-world applications across multiple sectors
+- Common failure modes in data-driven interventions
+- Bias, fairness, and equity concerns
+- Community involvement and stakeholder trust
+- Responsible use of AI and data in public-interest contexts
 
-## Math
+## Format
 
-Hugo Blox Builder supports a Markdown extension for $\LaTeX$ math. You can enable this feature by toggling the `math` option in your `config/_default/params.yaml` file.
+This course was designed as a discussion-oriented, 1-credit class. Students engaged with examples from current practice and reflected on how technical decisions connect to real human outcomes.
 
-To render _inline_ or _block_ math, wrap your LaTeX math with `{{</* math */>}}$...${{</* /math */>}}` or `{{</* math */>}}$$...$${{</* /math */>}}`, respectively.
+## Takeaway
 
-{{% callout note %}}
-We wrap the LaTeX math in the Hugo Blox _math_ shortcode to prevent Hugo rendering our math as Markdown.
-{{% /callout %}}
-
-Example **math block**:
-
-```latex
-{{</* math */>}}
-$$
-\gamma_{n} = \frac{ \left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T \left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}{\left \|\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right \|^2}
-$$
-{{</* /math */>}}
-```
-
-renders as
-
-{{< math >}}
-$$\gamma_{n} = \frac{ \left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T \left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}{\left \|\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right \|^2}$$
-{{< /math >}}
-
-Example **inline math** `{{</* math */>}}$\nabla F(\mathbf{x}_{n})${{</* /math */>}}` renders as {{< math >}}$\nabla F(\mathbf{x}_{n})${{< /math >}}.
-
-Example **multi-line math** using the math linebreak (`\\`):
-
-```latex
-{{</* math */>}}
-$$f(k;p_{0}^{*}) = \begin{cases}p_{0}^{*} & \text{if }k=1, \\
-1-p_{0}^{*} & \text{if }k=0.\end{cases}$$
-{{</* /math */>}}
-```
-
-renders as
-
-{{< math >}}
-
-$$
-f(k;p_{0}^{*}) = \begin{cases}p_{0}^{*} & \text{if }k=1, \\
-1-p_{0}^{*} & \text{if }k=0.\end{cases}
-$$
-
-{{< /math >}}
-
-## Code
-
-Hugo Blox Builder utilises Hugo's Markdown extension for highlighting code syntax. The code theme can be selected in the `config/_default/params.yaml` file.
-
-
-    ```python
-    import pandas as pd
-    data = pd.read_csv("data.csv")
-    data.head()
-    ```
-
-renders as
-
-```python
-import pandas as pd
-data = pd.read_csv("data.csv")
-data.head()
-```
-
-## Inline Images
-
-```go
-{{</* icon name="python" */>}} Python
-```
-
-renders as
-
-{{< icon name="python" >}} Python
-
-## Did you find this page helpful? Consider sharing it 🙌
+Students leave with a stronger sense of how to think critically about data-driven social impact work, not just how to admire it.

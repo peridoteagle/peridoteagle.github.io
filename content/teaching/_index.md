@@ -1,6 +1,6 @@
 ---
 title: Teaching
-summary: My courses
+summary: Courses and invited lectures
 type: landing
 
 cascade:
@@ -10,10 +10,20 @@ cascade:
       show_breadcrumb: true
 
 sections:
+  - block: markdown
+    content:
+      title: Teaching
+      subtitle: ""
+      text: |-
+        I teach practical, accessible material on data science and AI for students, educators, and community audiences.
+
+        Below you'll find my university course and information about one-off classroom talks.
+    design:
+      columns: "1"
   - block: collection
     id: teaching
     content:
-      title: Teaching
+      title: Courses and Talks
       filters:
         folders:
           - teaching
