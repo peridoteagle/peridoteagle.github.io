@@ -197,4 +197,4 @@ work:
 
 ## About Me
 
-The world is complicated. I use data to make AI safer 🤖
+I use data science to make AI safer 🤖
