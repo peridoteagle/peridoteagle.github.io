@@ -21,8 +21,6 @@ sections:
         </div>
     design:
       columns: "1"
-      spacing:
-        padding: [0, 0, 1rem, 0]
   - block: collection
     id: teaching
     content:
@@ -33,6 +31,4 @@ sections:
     design:
       view: article-grid
       columns: 2
-      spacing:
-        padding: [0, 0, 0, 0]
 ---
