@@ -1,13 +1,12 @@
 ---
 title: Data Science for Social Good
 summary: A 1-credit course on how data science can support social impact work, with attention to real-world tradeoffs, ethics, and implementation.
-date: 2023-10-24
 slug: data-science-for-social-good
 type: docs
 math: false
 tags: []
 image:
-  filename: social-good.png
+  filename: featured.jpg
 ---
 
 ## Course Overview

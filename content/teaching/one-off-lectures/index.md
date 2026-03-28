@@ -1,7 +1,6 @@
 ---
 title: One-Off School Lectures
 summary: As my free time permits, I speak virtually on AI and data science in classroom settings.
-date: 2023-10-24
 type: docs
 math: false
 tags: []

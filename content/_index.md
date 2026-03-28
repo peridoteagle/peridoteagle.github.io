@@ -28,14 +28,14 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: 'My Areas of Expertise'
+      title: 'What I Work On'
       subtitle: ''
       text: |-
-        I work on identifying and forecasting risks related to AI 🔍
-        
-        I’ve previously worked as an AI red teamer and federal government contractor, and my data science toolkit includes big data analysis, Bayesian modeling, NLP, agent-based modeling, and data visualization 📊 across domains like health, criminal justice, and education.
-        
-        At the end of the day, I’m focused on helping build AI that’s not just powerful, but safe and trustworthy 🤖✨
+        I work on identifying, understanding, and forecasting risks related to AI.
+
+        My background spans AI red teaming, threat forecasting, and applied data science across domains including health, education, and criminal justice. I use methods such as large-scale data analysis, Bayesian modeling, natural language processing, agent-based modeling, and data visualization to study complex real-world problems.
+
+        Across research, policy, and practice, I’m most interested in helping build AI systems that are not just powerful, but safe, trustworthy, and useful.
     design:
       columns: '1'
   - block: collection

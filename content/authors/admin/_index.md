@@ -35,15 +35,19 @@ profiles:
     url: https://orcid.org/0000-0003-0074-4344
 
 interests:
-  - Weird AI Failures
-  - (Dis)Trust in AI
-  - AI Used for Social Good
+  - AI Failure Modes
+  - Human Trust in AI
+  - AI for Social Good
 
 education:
   - area: MSc Analytics
     institution: North Carolina State University
+    date_start: ""
+    date_end: ""
   - area: BS Statistics, BA Public Policy
     institution: Duke University
+    date_start: ""
+    date_end: ""
 
 work:
   - position: Quantitative Threat Forecasting Analyst
@@ -90,6 +94,13 @@ work:
     date_start: 2020-12-01
     date_end: 2024-12-31
     summary: |2-
+  - position: Data Scientist
+    company_name: RTI International
+    company_url: 'https://www.rti.org/'
+    company_logo: ''
+    date_start: 2018-06-01
+    date_end: 2020-12-31
+    summary: |2-
       As a member of the Center for Data Science and AI, I collaborated with technical colleagues and subject matter experts on a variety of projects in social science, data science, and responsible AI.
       
       My contributions included:
@@ -99,13 +110,6 @@ work:
       - Leadership in drafting RTI generative AI use policies and development of responsible AI protocols including impact assessment and red-teaming
       - Representing RTI on the NIST US AI Safety Institute Consortium
       - Quoted in major publications including New York Times, Scientific American, Washington Post, and TIME for research on COVID reinfections and Long COVID
-  - position: Data Scientist
-    company_name: RTI International
-    company_url: 'https://www.rti.org/'
-    company_logo: ''
-    date_start: 2018-06-01
-    date_end: 2020-12-31
-    summary: |2-
   - position: College Advising Corps Adviser
     company_name: AmeriCorps
     company_url: 'https://americorps.gov/'
