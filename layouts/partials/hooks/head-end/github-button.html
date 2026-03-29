@@ -1,1 +1,9 @@
 <script async defer src="https://buttons.github.io/buttons.js"></script>
+{{ if eq .Section "teaching" }}
+<style>
+  article main > div.mt-4.mb-16,
+  article main > time.mt-12.mb-8 {
+    display: none !important;
+  }
+</style>
+{{ end }}
