@@ -3,7 +3,7 @@ title: Prioritizing Policies for Furthering Responsible Artificial Intelligence 
   the United States
 authors:
 - Emily Hadley
-date: '2022-12-01'
+date: '2023-01-26'
 publishDate: '2025-01-29T04:55:45.482127Z'
 publication_types:
 - paper-conference

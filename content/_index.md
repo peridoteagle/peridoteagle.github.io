@@ -33,7 +33,7 @@ sections:
       text: |-
         I work on identifying, understanding, and forecasting risks related to AI.
 
-        My background spans AI red teaming, threat forecasting, and applied data science across domains including health, education, and criminal justice. I use methods such as large-scale data analysis, Bayesian modeling, natural language processing, agent-based modeling, and data visualization to study complex real-world problems.
+        My background spans AI red teaming, threat forecasting, and applied data science across domains including health, education, and criminal justice. I use a mix of data analysis, modeling, and experimentation to study real-world AI challenges.
 
     design:
       columns: '1'

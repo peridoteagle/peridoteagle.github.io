@@ -1,6 +1,6 @@
 ---
 title: Lectures and Panels
-summary: As my free time permits, I can speak on AI in lecture and panel settings.
+summary: Lectures and panel discussions on AI topics in academic settings.
 date: 2023-10-24
 type: page
 show_date: false
@@ -9,8 +9,6 @@ tags: []
 image:
   filename: featured.jpg
 ---
-
-## About
 
 As my free time permits, I speak virtually on AI and data science in classroom settings. I have given more than 25 presentations for students of all ages including middle school, high school, college, graduate, and adult learners.
 

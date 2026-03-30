@@ -35,9 +35,9 @@ profiles:
     url: https://orcid.org/0000-0003-0074-4344
 
 interests:
-  - AI Failure Modes
-  - Human Trust in AI
-  - AI for Social Good
+  - Misuse & Manipulation of AI
+  - AI in High-Trust Domains
+  - Early Signals of AI Risk
 
 education:
   - area: MSc Analytics
@@ -105,7 +105,7 @@ work:
       - Presentations at 36 conferences, including several as an invited speaker
       - Leadership in drafting RTI generative AI use policies and development of responsible AI protocols including impact assessment and red-teaming
       - Representing RTI on the NIST US AI Safety Institute Consortium
-      - Quoted in major publications including New York Times, Scientific American, Washington Post, and TIME for research on COVID reinfections and Long COVID
+      - Quoted in major publications including [New York Times](https://www.nytimes.com/2023/08/17/well/live/covid-reinfection.html), [Scientific American](https://www.scientificamerican.com/article/do-repeat-covid-infections-increase-the-risk-of-severe-disease-or-long-covid/), [Washington Post](https://www.washingtonpost.com/politics/2024/07/11/relieving-growing-burden-medical-debt/), and [TIME](https://time.com/6999274/long-covid-risk-2024/) for research on COVID reinfections and Long COVID
   - position: College Advising Corps Adviser
     company_name: AmeriCorps
     company_url: 'https://americorps.gov/'
@@ -119,7 +119,7 @@ work:
       * Nearly doubling the number of students taking the SAT
       * Increasing the total scholarships awarded from $2.7 million to $7.6 million
       
-      My work was featured in a May 2017 New York Times article.
+      My work was featured in a [May 2017 New York Times article](https://www.nytimes.com/2017/05/21/us/elite-colleges-counselors-rural-schools.html).
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
