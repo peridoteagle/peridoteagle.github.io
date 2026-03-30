@@ -58,6 +58,20 @@ sections:
         exclude_featured: false
     design:
       view: citation
+  - block: markdown
+    content:
+      title: 'Speaking'
+      subtitle: ''
+      text: |-
+        I have presented or spoken at over 35 conferences, including several as an invited speaker or panelist. Examples include:
+
+        * IEEE Big Data
+        * ACM Conference on Fairness, Accountability, and Transparency (FAccT)
+        * ASA Joint Statistical Meetings
+        * Academy Health Annual Research Meeting (ARM)
+        * Government Advances in Statistical Programming (GASP)
+    design:
+      columns: '1'
   - block: collection
     id: news
     content:
