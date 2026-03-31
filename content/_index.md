@@ -64,7 +64,7 @@ sections:
       title: 'Speaking'
       subtitle: ''
       text: |-
-        I have presented or spoken at over 35 conferences, including several as an invited speaker or panelist. Examples include:
+        I have presented or spoken at more than 35 conferences, including several as an invited speaker or panelist. Examples include:
 
         * IEEE Big Data
         * ACM Conference on Fairness, Accountability, and Transparency (FAccT)
